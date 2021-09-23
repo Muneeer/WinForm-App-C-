@@ -1,0 +1,10 @@
+E:\Work\WinForm\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.exe.config
+E:\Work\WinForm\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.exe
+E:\Work\WinForm\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.pdb
+E:\Work\WinForm\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.csprojAssemblyReference.cache
+E:\Work\WinForm\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.Form1.resources
+E:\Work\WinForm\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.Properties.Resources.resources
+E:\Work\WinForm\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.csproj.GenerateResource.cache
+E:\Work\WinForm\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.csproj.CoreCompileInputs.cache
+E:\Work\WinForm\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.exe
+E:\Work\WinForm\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.pdb
